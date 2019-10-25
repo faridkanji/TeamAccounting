@@ -1,5 +1,5 @@
 ---
-title: About • Farid Kanji
+title: About • Team Accounting
 ---
 
 ### | [Home](/) | [About](/about.html) |
