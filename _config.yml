@@ -1,3 +1,5 @@
 title: Team Accounting Canada
 description: Accounting & Tax Filing Services
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
