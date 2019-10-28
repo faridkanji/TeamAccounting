@@ -4,14 +4,15 @@ title: Team Accounting
 
 ### | [Home](/) | [Services](/services.html) | [About Us](/about.html) |
 
-# Accounting and Tax Services Available:
+# Bookkeeping and Tax Services Available:
 -  GST Filing
+-  Payroll Services
 -  Bookkeeping
 
 # Tax Services Available
 -  Business Returns - T1
 -  Personal Returns - T2
 
-## Specializing in Accounting for Gig Workers (Uber, Lyft, Skip the Dishes, etc.)
+## Specializing in Tax preparation for previously unfiled returns
 
-# Call us at 647-738-4927 to discuss how we can help you.
+# Call us at 647-738-4927 to discuss how we can help you catch us unfiled tax returns
