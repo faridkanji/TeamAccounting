@@ -2,7 +2,7 @@
 title: Team Accounting
 ---
 
-### | [Home](/) | [About](/about.html) |
+### | [Home](/) | [Services](/) | [About Us](/about.html) |
 
 # Accounting and Tax Services Available:
 -  GST Filing
