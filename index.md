@@ -4,14 +4,14 @@ title: Team Accounting
 
 ### | [Home](/) | [Services](/services.html) | [About Us](/about.html) |
 
-# Bookkeeping and Tax Services Available:
--  GST Filing
+# Bookkeeping Services Available:
 -  Payroll Services
 -  Bookkeeping
 
-# Tax Services Available
+# Tax Filing Services Available
 -  Business Returns - T1
 -  Personal Returns - T2
+-  HST Filing
 
 ## Specializing in Tax preparation for previously unfiled returns
 
