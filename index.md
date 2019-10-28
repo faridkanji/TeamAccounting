@@ -14,4 +14,4 @@ title: Team Accounting
 
 ## Specializing in Accounting for Gig Workers (Uber, Lyft, Skip the Dishes, etc.)
 
-# Call Farid at 647-738-4927 to discuss how we can help you.
+# Call us at 647-738-4927 to discuss how we can help you.
