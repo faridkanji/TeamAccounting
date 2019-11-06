@@ -6,4 +6,4 @@ title: About Us • Team Accounting
 
 # Team Accounting Canada is your team to help you with your book keeping and tax filing needs
 
-# Farid - Former tax preparer for a large national chain; Quickbooks Online Certified; Project Management Professional (PMP)
+# Farid - Former tax preparer for a large national chain; Quickbooks Online ProAdvisor; Project Management Professional (PMP)
