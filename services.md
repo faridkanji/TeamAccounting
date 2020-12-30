@@ -12,6 +12,6 @@ title: Team Accounting
 -  Business Returns - T2
 -  Personal Returns - T1
 
-## Specializing in Accounting for personal taxes
+## Specializing in smal and medium business accounting and personal taxes
 
 # Call us at 647-738-4927 to discuss how we can help you.
