@@ -9,8 +9,8 @@ title: Team Accounting
 -  Bookkeeping
 
 # Tax Filing Services Available
--  Business Returns - T1
--  Personal Returns - T2
+-  Business Returns - T2
+-  Personal Returns - T1
 -  HST Filing
 
 ## Specializing in Tax preparation for previously unfiled returns
