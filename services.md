@@ -7,6 +7,7 @@ title: Team Accounting
 # Accounting and Tax Services Available:
 -  GST Filing
 -  Bookkeeping
+-  Payroll
 
 # Tax Services Available
 -  Business Returns - T2
